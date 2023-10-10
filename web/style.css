@@ -1,0 +1,65 @@
+.body {
+    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Noto Sans Thai', sans-serif;
+}
+.part {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    margin-top: 10px;
+    border: 1px solid gray;
+    border-radius: 0px 5px 5px 0px;
+    width: 50%;
+    padding: 5px;
+}
+.part1 {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    margin-top: 10px;
+    border: 1px solid gray;
+    border-radius: 5px 0px 0px 5px;
+    width: 50%;
+    padding: 5px;
+}
+.info {
+    margin-left: 5px;
+}
+.info1 {
+    margin-right: 5px;
+}
+.img {
+    width: 100%;
+}
+.section {
+    margin: auto;
+    font-size: 30px;
+}
+.text1 {
+    margin: auto;
+    font-size: 70%;
+    color: grey;
+}
+.text2 {
+    margin: auto;
+    font-size: 80%;
+    text-indent: 30px;
+}
+.infobrochure {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    margin-top: 30px;
+    width: 50%;
+    padding: 5px;
+    text-align: center;
+}
+.imgbrochure {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    margin-top: 10px;
+    padding: 5px;
+    max-width: 100%;
+    height: auto;
+}
